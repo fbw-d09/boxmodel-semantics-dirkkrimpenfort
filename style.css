@@ -1,0 +1,48 @@
+.container {
+    background: #accbe4;
+    max-width: 1520px;
+    margin: 0 auto;
+    text-align: center;
+
+}
+
+
+.ueberschrift{
+    background-color:black;
+    color: white;
+    display: inline;
+    font-size: 50px;
+    width: 65%;
+    right: -35px;
+    position: relative;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    
+}
+
+.nav{
+    list-style: none;
+    padding-left: 237px;
+    display: flex
+    }
+
+   li  {
+    margin-left: 35px
+    }
+
+.fuehrerschein{
+    font-size: 25px;
+    padding: 0px;
+    margin-left: 35px;
+    }
+   
+    .drohnen-fliegen{
+        padding: 0px;
+    margin-left: 35px;
+    }
+
+    .pic{
+        padding: 0px;
+        margin-left:35px;
+    }
+
