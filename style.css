@@ -10,10 +10,10 @@
 .ueberschrift{
     background-color:black;
     color: white;
-    display: inline;
+    /*display: inline; */
     font-size: 50px;
-    width: 65%;
-    right: -35px;
+    width: 67%;
+    right: -265px;
     position: relative;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     
@@ -46,3 +46,11 @@
         margin-left:35px;
     }
 
+    .text-unter-bild{
+    background-color: gray;
+    xmargin-left: 35px;
+    max-width: 1520px;
+    height:50px;
+    text-align: center;
+
+    }
